@@ -20,7 +20,7 @@
 /turf/closed/indestructible/rock/xen
 	name = "странная стена Зена"
 	color = "#ac3b06"
-	baseturfs = /turf/closed/indestructible/rock/xenы
+	baseturfs = /turf/closed/indestructible/rock/xen
 
 /turf/open/floor/plating/xen
 	name = "странная трава Зена"
