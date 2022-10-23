@@ -48,7 +48,7 @@
 
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie/hev
 	name = "зомбированый исследователь"
-	desc = "Исследователь, на котором надет костюм защитный костюм HEV."
+	desc = "Исследователь, на котором надет защитный костюм HEV."
 	icon_state = "hev_zombie"
 	icon_living = "hev_zombie"
 	maxHealth = 250
