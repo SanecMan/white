@@ -1,5 +1,5 @@
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie
-	name = "зомбированный"
+	name = "зомбированый"
 	desc = "У него на голове краб. Ой, хедкраб."
 	icon = 'white/valtos/icons/black_mesa/mobs.dmi'
 	icon_state = "zombie"
