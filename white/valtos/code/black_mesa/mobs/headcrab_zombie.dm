@@ -1,5 +1,5 @@
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie
-	name = "зомбированый"
+	name = "зомбированный"
 	desc = "У него на голове краб. Ой, хедкраб."
 	icon = 'white/valtos/icons/black_mesa/mobs.dmi'
 	icon_state = "zombie"
@@ -32,14 +32,14 @@
 	return ..()
 
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie/scientist
-	name = "зомбированый учёный"
+	name = "зомбированный учёный"
 	desc = "Даже после смерти ему приходится носить этот уродливый галстук."
 	icon_state = "scientist_zombie"
 	icon_living = "scientist_zombie"
 
 
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie/guard
-	name = "зомбированый охранник"
+	name = "зомбированный охранник"
 	desc = "Теперь не охраняет учёных."
 	icon_state = "security_zombie"
 	icon_living = "security_zombie"
@@ -47,7 +47,7 @@
 	health = 140
 
 /mob/living/simple_animal/hostile/blackmesa/xen/headcrab_zombie/hev
-	name = "зомбированый исследователь"
+	name = "зомбированный исследователь"
 	desc = "Исследователь, на котором надет защитный костюм HEV."
 	icon_state = "hev_zombie"
 	icon_living = "hev_zombie"
@@ -69,7 +69,3 @@
 		'white/valtos/sounds/black_mesa/mobs/zombies/hzv13.ogg',
 		'white/valtos/sounds/black_mesa/mobs/zombies/hzv14.ogg',
 	)
-
-
-
-
