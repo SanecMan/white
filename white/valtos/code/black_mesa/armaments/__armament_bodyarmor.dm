@@ -53,7 +53,7 @@
 
 /obj/item/storage/box/armor_set/pcv
 	name = "комплект ЭБЖ марк II"
-	desc = "Содержит энергетический боевой шлем и жилет марк II"
+	desc = "Содержит комплект ЭБЖ марк II"
 
 /obj/item/storage/box/armor_set/pcv/PopulateContents()
 	new /obj/item/clothing/suit/space/hev_suit/pcv(src)
